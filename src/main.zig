@@ -56,8 +56,9 @@ fn output_file(file_name: []const u8) !void {
 
             i += OUT_CHUNK_SIZE;
             total_prints += 1;
-            file_size += byte_count;
         }
+
+	file_size += byte_count;
     }
 
     // print some stats about the file
