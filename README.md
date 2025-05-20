@@ -1,8 +1,8 @@
-# Kyou
+# Kyou-zig
 
 ## Overview
 
-Kyou is a simple xxd-like hex dumper written in Zig. It was written for educational purposes and is likely not very efficient.
+Kyou-zig is a simple xxd-like hex dumper written in Zig. It was written for educational purposes and is likely not very efficient.
 
 ## Usage
 
