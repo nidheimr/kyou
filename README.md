@@ -6,7 +6,7 @@ Kyou-zig is a simple xxd-like hex dumper written in Zig. It was written for educ
 
 ## Usage
 
-`kyou <relative_file_path>`
+`kyou-zig <relative_file_path>`
 
 ## Building
 
