@@ -71,7 +71,7 @@ pub fn main() !void {
     defer std.process.argsFree(std.heap.page_allocator, args);
 
     if (args.len < 2) {
-        std.log.err("kyou <file>", .{});
+        std.log.err("kyou-zig <file>", .{});
         return;
     }
 
